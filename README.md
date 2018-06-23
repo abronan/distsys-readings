@@ -4,21 +4,21 @@ A collection of research papers on Distributed Systems focusing on the way we co
 
 # Categories
 
-* [Consistency / Replication](#consistency-/-replication)
+* [Consistency and Replication](#consistency-and-replication)
 * [Conflict-Free Replicated Data Types](#conflict-free-replicated-data-types)
 * [Failure detection](#failure-detection)
 * [Scheduling](#scheduling)
 * [Topology](#topology)
 * [Peer to Peer](#peer-to-peer)
-* [Language/Tools Support](#language-/-tools-support)
+* [Language and Tools Support](#language-and-tools-support)
 
-## Consistency / Replication
+## Consistency and Replication
 
 * [Consistency Without Borders](http://delivery.acm.org/10.1145/2530000/2523632/a23-alvaro.pdf) - Peter Alvaro, Peter Bailis, Neil Conway, Joseph M. Hellerstein
 * [Anna: A KVS For Any Scale](http://db.cs.berkeley.edu/jmh/papers/anna_ieee18.pdf) - Chenggang Wu, Jose M. Faleiro, Yihan Lin, Joseph M. Hellerstein
 * [Putting Consistency Back into Eventual Consistency](https://hal.inria.fr/hal-01248191/document) - Valter Balegas, Sérgio Duarte, Carla Ferreira, Rodrigo Rodrigues, Nuno Preguiça, Mahsa Najafzadeh, Marc Shapiro
 * [Don't Settle for Eventual: Scalable Causal Consistency for Wide-Area Storage with COPS](http://www-cgi.cs.cmu.edu/afs/cs.cmu.edu/Web/People/dga/papers/cops-sosp2011.pdf) - Wyatt Lloyd, Michael J. Freedman, Michael Kaminsky, and David G. Andersen
-* [Cure: Strong semantics meets high availability and low latency](https://hal.inria.fr/hal-01270776/document) - Deepthi Devaki Akkoorath, Alejandro Tomsic, Manuel Bravo, Zhongmiao Li, Tyler Crain†, Annette Bieniusa, Nuno Preguiça, Marc Shapiro
+* [Cure: Strong semantics meets high availability and low latency](https://hal.inria.fr/hal-01270776/document) - Deepthi Devaki Akkoorath, Alejandro Tomsic, Manuel Bravo, Zhongmiao Li, Tyler Crain, Annette Bieniusa, Nuno Preguiça, Marc Shapiro
 * [Bolt-On Causal Consistency](https://kelehers.me/others/bolton-sigmod2013.pdf) - Peter Bailis, Ali Ghodsi, Joseph M. Hellerstein, Ion Stoica
 * [The Potential Dangers of Causal Consistency and an Explicit Solution](https://people.eecs.berkeley.edu/~alig/papers/dangers-causal-consistency.pdf) - Peter Bailis, Alan Fekete, Ali Ghodsi, Joseph M. Hellerstein, Ion Stoica
 * [Geo-Replication: Fast If Possible, Consistent If Necessary]() - Valter Balegas, Cheng Li, Mahsa Najafzadeh, Daniel Porto, Allen Clement, Sérgio Duarte, Carla Ferreira, Johannes Gehrke, João Leitão, Nuno Preguiça, et al.
@@ -54,6 +54,6 @@ Algorithms](http://cse.iitd.ac.in/~srsarangi/files/papers/free.pdf) - Pooja Agga
 
 * [A Survey and Comparison of Peer-to-Peer Overlay Network Schemes](http://www.pitt.edu/~dtipper/3350/P2P1.pdf) - Eng Keong Lua, Jon Crowcroft, Marcelo Pias, Ravi Sharma and Steven Lim
 
-## Language / Tools Support
+## Language and Tools Support
 
 * [Lasp: A Language for Distributed, Coordination-Free Programming](https://www.info.ucl.ac.be/~pvr/ppdp-2015-cr.pdf) - Christopher Meiklejohn, Peter Van Roy
