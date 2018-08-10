@@ -14,7 +14,7 @@ A collection of research papers on Distributed Systems focusing on the way we co
 
 ## Consistency and Replication
 
-* [Consistency Without Borders](http://delivery.acm.org/10.1145/2530000/2523632/a23-alvaro.pdf) - Peter Alvaro, Peter Bailis, Neil Conway, Joseph M. Hellerstein
+* [Consistency Without Borders](https://people.ucsc.edu/~palvaro/a23-alvaro.pdf) - Peter Alvaro, Peter Bailis, Neil Conway, Joseph M. Hellerstein
 * [Anna: A KVS For Any Scale](http://db.cs.berkeley.edu/jmh/papers/anna_ieee18.pdf) - Chenggang Wu, Jose M. Faleiro, Yihan Lin, Joseph M. Hellerstein
 * [Putting Consistency Back into Eventual Consistency](https://hal.inria.fr/hal-01248191/document) - Valter Balegas, Sérgio Duarte, Carla Ferreira, Rodrigo Rodrigues, Nuno Preguiça, Mahsa Najafzadeh, Marc Shapiro
 * [Don't Settle for Eventual: Scalable Causal Consistency for Wide-Area Storage with COPS](http://www-cgi.cs.cmu.edu/afs/cs.cmu.edu/Web/People/dga/papers/cops-sosp2011.pdf) - Wyatt Lloyd, Michael J. Freedman, Michael Kaminsky, and David G. Andersen
